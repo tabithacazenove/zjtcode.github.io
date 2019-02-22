@@ -6,7 +6,7 @@ body{
   width: 960px;
   margin: 0 auto;
   text-align: center;
-  font-family: serif;
+  font-family:amaranth;
 }
 
 h1 {
@@ -28,7 +28,7 @@ a {
   font-size: 20px;
 }
 
-.key-item:nth-last-child(2){padding-bottom: 20px;}
+.key-item:nth-last-child(2){padding-bottom: 50px;}
 
 .section {
   position: relative;
