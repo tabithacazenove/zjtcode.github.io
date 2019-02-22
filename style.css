@@ -76,3 +76,7 @@ code {
   color:#1D2F9E;
   transform: scaleX(-1);
 }
+
+caption {
+  font-family:courier;
+}
