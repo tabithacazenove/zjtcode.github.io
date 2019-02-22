@@ -79,7 +79,7 @@ caption {
   font-family:courier;
 }
 
-<<<<<<< HEAD
+
 .typewriter h2{
   font-family: monospace; /* Web-safe typewriter-like font */
   overflow: hidden; /* Ensures the content is not revealed until the animation */
@@ -117,7 +117,6 @@ caption {
 
 #myCarousel{
   margin-right:30px;
-/* >>>>>>> 5ede33fa37b14dcb7955f1864dd06947f1ab7633 */
 }
 
 table {
