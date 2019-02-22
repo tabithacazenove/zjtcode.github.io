@@ -134,3 +134,13 @@ td, th {
 img {
   rotateY:90;
 }
+
+.description{
+  font-size:20px;
+  font-family:serif;
+}
+
+#address{
+  font-size:18px;
+  font-family:serif;
+}
