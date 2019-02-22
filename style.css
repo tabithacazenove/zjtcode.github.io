@@ -80,3 +80,14 @@ code {
 caption {
   font-family:courier;
 }
+
+.icons{
+  width:60px;
+  height:60px;
+  padding:10px;
+}
+
+#contact{
+  font-size: 24px;
+  text-align: center;
+}
